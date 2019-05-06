@@ -20,6 +20,6 @@ public class BinaryTreeTest {
         tree.createNode(5,5);
         tree.createNode(3,3);
 
-        tree.deleteNode(3);
+        tree.deleteNode(2);
     }
 }
